@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anacleto Cuna (@ob1-cuna)
 - 👀 I’m interested in Laravel
-- 🌱 I’m currently learning MongoDB and Python. 
+- 🌱 I’m currently learning GameDev and Python. 
 - 💞️ I’m looking to collaborate on open-source projects 
 - 📫 You can reach me on Twitter (@vnvcleto)
 
